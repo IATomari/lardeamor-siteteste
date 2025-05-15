@@ -2,12 +2,12 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #f4f4f4;
+  background: #f8f5fa;
   color: #333;
 }
 
 header {
-  background-color: #00695c;
+  background-color: #C8A2C8;
   color: white;
   padding: 20px;
   text-align: center;
@@ -25,6 +25,7 @@ nav ul {
 nav ul li a {
   color: white;
   text-decoration: none;
+  font-weight: bold;
 }
 
 section {
@@ -37,7 +38,7 @@ section {
 }
 
 h2 {
-  color: #00695c;
+  color: #A86DA8; /* tom mais escuro para contraste */
 }
 
 .trabalho {
@@ -47,6 +48,6 @@ h2 {
 footer {
   text-align: center;
   padding: 15px;
-  background-color: #004d40;
+  background-color: #A86DA8;
   color: white;
 }
